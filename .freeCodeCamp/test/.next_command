@@ -66,3 +66,11 @@ chmod +x queries.sh
 ./insert_data.sh
 git init
 git add .
+git commit -m "Initial commit for World Cup Database project"
+git remote add origin https://github.com/WLozanoH/worldcup-database-project.git
+git remote add origin https://github.com/WLozanoH/worldcup-database-project.git
+git branch -M main
+git push -f -u origin main
+git remote remove origin
+git remote add origin https://github.com/WLozanoH/worldcup-database-project.git
+git add .
