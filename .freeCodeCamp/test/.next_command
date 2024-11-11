@@ -64,3 +64,5 @@ psql --username=freecodecamp --dbname=postgres
 chmod +x insert_data.sh
 chmod +x queries.sh
 ./insert_data.sh
+git init
+git add .
